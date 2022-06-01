@@ -1,0 +1,12 @@
+2021-09-08T14:56:02+00:00 CRITICAL Cannot use temporary expression in write context in /home/tuyentran/domains/tuyentran.vn/public_html/eduma/wp-content/themes/eduma-child/functions.php on line 40
+
+2021-09-08T14:56:02+00:00 CRITICAL Cannot use temporary expression in write context in /home/tuyentran/domains/tuyentran.vn/public_html/eduma/wp-content/themes/eduma-child/functions.php on line 40
+
+2021-09-08T14:56:23+00:00 CRITICAL syntax error, unexpected '=', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/tuyentran/domains/tuyentran.vn/public_html/eduma/wp-content/themes/eduma-child/functions.php on line 39
+
+2021-09-08T14:56:43+00:00 CRITICAL syntax error, unexpected '=', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/tuyentran/domains/tuyentran.vn/public_html/eduma/wp-content/themes/eduma-child/functions.php on line 38
+
+2021-09-08T14:57:21+00:00 CRITICAL syntax error, unexpected '=', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/tuyentran/domains/tuyentran.vn/public_html/eduma/wp-content/themes/eduma-child/functions.php on line 40
+
+2021-09-08T14:57:25+00:00 CRITICAL syntax error, unexpected '=', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/tuyentran/domains/tuyentran.vn/public_html/eduma/wp-content/themes/eduma-child/functions.php on line 40
+

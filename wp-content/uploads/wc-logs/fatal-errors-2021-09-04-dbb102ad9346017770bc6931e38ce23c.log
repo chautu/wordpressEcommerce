@@ -1,0 +1,110 @@
+2021-09-04T14:05:20+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:05:27+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:05:34+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:05:50+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:05:57+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:06:10+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:06:15+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:06:33+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:06:44+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:06:44+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+
+2021-09-04T14:06:56+00:00 CRITICAL Uncaught Error: Call to a member function get_course_data() on null in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php:12
+Stack trace:
+#0 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/lp-template-functions.php(933): include()
+#1 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/templates/widgets/course-progress.php(24): learn_press_get_template('single-course/s...')
+#2 /home/cbkvrayq/online.webfast.asia/wp-content/plugins/learnpress/inc/widgets/course-progress.php(92): include('/home/cbkvrayq/...')
+#3 /home/cbkvrayq/online.webfast.asia/wp-includes/class-wp-widget.php(393): LP_Widget_Course_Progress->widget(Array, Array)
+#4 /home/cbkvrayq/online.webfast.asia/wp-includes/widgets.php(831): WP_Widget->display_callback(Array, Array)
+#5 /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/sidebar-courses.php(19): dynamic_sidebar('sidebar_courses')
+#6 /home/cbkvrayq/online.webfast.asia/wp-includes/template.ph in /home/cbkvrayq/online.webfast.asia/wp-content/themes/eduma/learnpress-v4/single-course/sidebar/user-progress.php on line 12
+

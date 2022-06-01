@@ -1,0 +1,186 @@
+2021-09-19T03:49:49+00:00 CRITICAL Uncaught Error: Call to undefined function posix_getgrgid() in C:\wamp64\www\tuyen\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php:231
+Stack trace:
+#0 C:\wamp64\www\tuyen\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(126): KUSANAGI_Security_Check->get_file_info('C:\\wamp64\\www\\t...')
+#1 C:\wamp64\www\tuyen\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(82): KUSANAGI_Security_Check->check_permission_wp_config()
+#2 C:\wamp64\www\tuyen\wp-admin\includes\template.php(1395): KUSANAGI_Security_Check->kusanagi_security_information('', Array)
+#3 C:\wamp64\www\tuyen\wp-admin\includes\dashboard.php(265): do_meta_boxes(Object(WP_Screen), 'normal', '')
+#4 C:\wamp64\www\tuyen\wp-admin\index.php(181): wp_dashboard()
+#5 {main}
+  thrown in C:\wamp64\www\tuyen\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php on line 231
+
+2021-09-19T03:50:47+00:00 CRITICAL Uncaught Error: Call to undefined function posix_getgrgid() in C:\wamp64\www\tuyen\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php:231
+Stack trace:
+#0 C:\wamp64\www\tuyen\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(126): KUSANAGI_Security_Check->get_file_info('C:\\wamp64\\www\\t...')
+#1 C:\wamp64\www\tuyen\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(82): KUSANAGI_Security_Check->check_permission_wp_config()
+#2 C:\wamp64\www\tuyen\wp-admin\includes\template.php(1395): KUSANAGI_Security_Check->kusanagi_security_information('', Array)
+#3 C:\wamp64\www\tuyen\wp-admin\includes\dashboard.php(265): do_meta_boxes(Object(WP_Screen), 'normal', '')
+#4 C:\wamp64\www\tuyen\wp-admin\index.php(181): wp_dashboard()
+#5 {main}
+  thrown in C:\wamp64\www\tuyen\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php on line 231
+
+2021-09-19T03:59:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\tuyen\wp-includes\Requests\Transport\cURL.php on line 164
+
+2021-09-19T04:25:35+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php:846
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): WOOF->wp_load_js('')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\header.php(12): wp_head()
+#5 C:\xampp\htdocs\shoppe\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\page-blank.php(5): get_header()
+#9 C:\xampp\htdocs\shoppe\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\shoppe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\shoppe\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php on line 846
+
+2021-09-19T04:25:40+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php:846
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): WOOF->wp_load_js('')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\header.php(12): wp_head()
+#5 C:\xampp\htdocs\shoppe\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\page-blank.php(5): get_header()
+#9 C:\xampp\htdocs\shoppe\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\shoppe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\shoppe\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php on line 846
+
+2021-09-19T04:25:40+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php:846
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): WOOF->wp_load_js('')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\header.php(12): wp_head()
+#5 C:\xampp\htdocs\shoppe\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\page-blank.php(5): get_header()
+#9 C:\xampp\htdocs\shoppe\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\shoppe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\shoppe\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php on line 846
+
+2021-09-19T04:25:42+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php:846
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): WOOF->wp_load_js('')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\header.php(12): wp_head()
+#5 C:\xampp\htdocs\shoppe\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\page-blank.php(5): get_header()
+#9 C:\xampp\htdocs\shoppe\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\shoppe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\shoppe\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php on line 846
+
+2021-09-19T04:27:46+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php:846
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): WOOF->wp_load_js('')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\header.php(12): wp_head()
+#5 C:\xampp\htdocs\shoppe\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\page-blank.php(5): get_header()
+#9 C:\xampp\htdocs\shoppe\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\shoppe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\shoppe\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php on line 846
+
+2021-09-19T04:27:48+00:00 CRITICAL Uncaught Error: Call to undefined function create_function() in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php:846
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): WOOF->wp_load_js('')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(3015): do_action('wp_head')
+#4 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\header.php(12): wp_head()
+#5 C:\xampp\htdocs\shoppe\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\shoppe\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\shoppe\wp-content\themes\flatsome\page-blank.php(5): get_header()
+#9 C:\xampp\htdocs\shoppe\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\shoppe\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\shoppe\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woocommerce-products-filter\index.php on line 846
+
+2021-09-19T04:28:18+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\shoppe\wp-settings.php(578): do_action('init')
+#5 C:\xampp\htdocs\shoppe\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\shoppe\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\shoppe\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2021-09-19T04:28:42+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\shoppe\wp-settings.php(578): do_action('init')
+#5 C:\xampp\htdocs\shoppe\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\shoppe\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\shoppe\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2021-09-19T04:28:44+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\shoppe\wp-settings.php(578): do_action('init')
+#5 C:\xampp\htdocs\shoppe\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\shoppe\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\shoppe\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2021-09-19T04:29:25+00:00 CRITICAL Uncaught Error: Call to undefined function posix_getgrgid() in C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php:231
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(126): KUSANAGI_Security_Check->get_file_info('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(82): KUSANAGI_Security_Check->check_permission_wp_config()
+#2 C:\xampp\htdocs\shoppe\wp-admin\includes\template.php(1395): KUSANAGI_Security_Check->kusanagi_security_information('', Array)
+#3 C:\xampp\htdocs\shoppe\wp-admin\includes\dashboard.php(265): do_meta_boxes(Object(WP_Screen), 'normal', '')
+#4 C:\xampp\htdocs\shoppe\wp-admin\index.php(181): wp_dashboard()
+#5 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php on line 231
+
+2021-09-19T04:29:58+00:00 CRITICAL Uncaught Error: Call to undefined function posix_getgrgid() in C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php:231
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(126): KUSANAGI_Security_Check->get_file_info('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(82): KUSANAGI_Security_Check->check_permission_wp_config()
+#2 C:\xampp\htdocs\shoppe\wp-admin\includes\template.php(1395): KUSANAGI_Security_Check->kusanagi_security_information('', Array)
+#3 C:\xampp\htdocs\shoppe\wp-admin\includes\dashboard.php(265): do_meta_boxes(Object(WP_Screen), 'normal', '')
+#4 C:\xampp\htdocs\shoppe\wp-admin\index.php(181): wp_dashboard()
+#5 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php on line 231
+

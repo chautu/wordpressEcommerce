@@ -1,0 +1,79 @@
+2021-09-20T08:11:37+00:00 CRITICAL Uncaught Error: Call to undefined function posix_getgrgid() in C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php:231
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(126): KUSANAGI_Security_Check->get_file_info('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php(82): KUSANAGI_Security_Check->check_permission_wp_config()
+#2 C:\xampp\htdocs\shoppe\wp-admin\includes\template.php(1395): KUSANAGI_Security_Check->kusanagi_security_information('', Array)
+#3 C:\xampp\htdocs\shoppe\wp-admin\includes\dashboard.php(265): do_meta_boxes(Object(WP_Screen), 'normal', '')
+#4 C:\xampp\htdocs\shoppe\wp-admin\index.php(181): wp_dashboard()
+#5 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\mu-plugins\kusanagi-core\modules\security-checker.php on line 231
+
+2021-09-20T08:14:20+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\shoppe\wp-settings.php(578): do_action('init')
+#5 C:\xampp\htdocs\shoppe\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\shoppe\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\shoppe\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2021-09-20T08:14:20+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\shoppe\wp-settings.php(578): do_action('init')
+#5 C:\xampp\htdocs\shoppe\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\shoppe\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2021-09-20T08:16:55+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(303): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\shoppe\wp-settings.php(578): do_action('init')
+#5 C:\xampp\htdocs\shoppe\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\shoppe\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\shoppe\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2021-09-20T08:18:54+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(292): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\shoppe\wp-settings.php(560): do_action('init')
+#5 C:\xampp\htdocs\shoppe\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\shoppe\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\shoppe\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
+2021-09-20T08:19:28+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "a" in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php:170
+Stack trace:
+#0 C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php(170): sprintf('Search %a', 'Widget Areas')
+#1 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(292): Woo_Sidebars->register_post_type('')
+#2 C:\xampp\htdocs\shoppe\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\shoppe\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\shoppe\wp-settings.php(560): do_action('init')
+#5 C:\xampp\htdocs\shoppe\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\shoppe\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\shoppe\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\shoppe\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\shoppe\wp-content\plugins\woosidebars\classes\class-woo-sidebars.php on line 170
+
